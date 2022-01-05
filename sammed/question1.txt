@@ -4,4 +4,4 @@ Explain the Use and steps invloved in it:-
 In GitHub Desktop, click Current Branch.
 In the list of branches, click the branch that has the commit that you want to cherry-pick.
 Click History.
-Drag the commit that you want to cherry-pick to the Current Branch menu and drop the commit on the branch that you want to copy the commit to.
+Drag the commit that you want to cherry-pick to the Current Branch menu and drop the commit on the branch that you want to copy the comm it to.  ..
